@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: 
-    - cron: "0 18 * * *"  # Runs every day at 18:00 UTC
-  workflow_dispatch:  # Allows manual triggering
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,9 +11,9 @@ jobs:
     name: Generate GitHub Profile 3D Contribution
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Correct action reference
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Ensure you have set this secret
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use your new Personal Access Token
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
@@ -21,4 +21,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add -A
           git commit -m "Generated 3D GitHub contribution calendar"
-          git push
+          git push https://github.com/${{ github.repository_owner }}/${{ github.repository }}.git HEAD:main
