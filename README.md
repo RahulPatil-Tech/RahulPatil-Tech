@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
 <h3 align="center">A passionate AI and Analytics Enthusiast from India</h3>
+
 ---
 
 ## 🚀 Featured Projects
