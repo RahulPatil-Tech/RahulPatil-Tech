@@ -11,7 +11,7 @@ jobs:
     name: Generate GitHub Profile 3D Contribution
     steps:
       - uses: actions/checkout@v3
-      - uses: RahulPatil-Tech/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use your renamed secret
           USERNAME: ${{ github.repository_owner }}
