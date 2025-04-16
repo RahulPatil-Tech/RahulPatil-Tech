@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Hi 👋, I'm Rahul Patil</h1> <h3 align="center">AI & Analytics Enthusiast | Innovator | Problem Solver</h3> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatil-tech&theme=radical" alt="Rahul Patil" /> </p>
+<h1 align="center">🚀 Hi 👋, I'm Rahul Patil</h1> <h3 align="center">AI & Analytics Enthusiast | Innovator | Problem Solver</h3> <p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatil-tech&theme=radical" alt="Rahul Patil" /> </p>
 
 ---
 
