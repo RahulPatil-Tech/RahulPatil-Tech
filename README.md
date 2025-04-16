@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Hi 👋, I'm Rahul Patil</h1> <h3 align="center">AI & Analytics Enthusiast | Innovator | Problem Solver</h3> <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatil-tech&theme=radical" alt="Rahul Patil" /> </p>
+  
+![3D GitHub Profile](./profile-3d-contrib/profile-night-view.svg)
+
 
 ---
 
@@ -30,55 +32,96 @@
 ---
 
 ## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-rp3252154%40gmail.com-red?style=for-the-badge)](mailto:rp3252154@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-Rahul%20Patil-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahul-patil-4bb533209)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/rahulpatil-tech)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rp3252154)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/py_rex_47/)  
+<p align="center">
+  <a href="mailto:rp3252154@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rp3252154%40gmail.com-red?style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-patil-4bb533209">
+    <img src="https://img.shields.io/badge/-Rahul%20Patil-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/rahulpatil-tech">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub" alt="GitHub">
+  </a>
+  <a href="https://www.hackerrank.com/profile/rp3252154">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://leetcode.com/u/py_rex_47/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="40" alt="Python" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="40" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" height="40" alt="Keras" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="40" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="40" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40" alt="CSS3" />
+</p>
+
 
 ---
 
 ## 🏆 Competitive Programming
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=py_rex_47&theme=dark)  
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=py_rex_47&theme=dark" alt="LeetCode Stats" height="200"/>
+</p>
 
 ### 🎖️ LeetCode Achievements
-- 🏅 **Silver Badge in SQL**  
-- 🥉 **Bronze Badge in Python**  
+- 🥈 **Silver Badge:** SQL  
+- 🥉 **Bronze Badge:** Python  
 
 ### 🎖️ HackerRank Achievements
-- 🥇 **Gold Badge in Python**  
-- 🥈 **Silver Badge in SQL**  
-- 🥉 **Bronze Badge in Problem Solving**  
+- 🥇 **Gold Badge:** Python  
+- 🥈 **Silver Badge:** SQL  
+- 🥉 **Bronze Badge:** Problem Solving  
 
-📜 **Certified in:**  
-✅ Python (Basic & Intermediate)  
-✅ SQL (Basic & Intermediate)  
-✅ Problem Solving (Basic & Intermediate)  
+### 📜 Certifications
+- ✅ **Python (Basic & Intermediate)**  
+- ✅ **SQL (Basic & Intermediate)**  
+- ✅ **Problem Solving (Basic & Intermediate)**  
 
 ---
 
 ## 🏅 Certifications & Achievements
-- 🏆 **AI Innovation Challenge Finalist**  
-- 📜 **Published Research on AI in Personalized Healthcare**  
-- 🔬 **Open Source Contributor** - Merged PRs in **TensorFlow & Scikit-Learn**  
+
+<table align="center">
+  <tr>
+    <td>🏆</td>
+    <td><strong>AI Innovation Challenge Finalist</strong></td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><strong>Published Research</strong> on AI in Personalized Healthcare</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><strong>Open Source Contributor</strong> in <code>TensorFlow</code> & <code>Scikit-learn</code></td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>Built multiple AI/ML projects with real-world impact</td>
+  </tr>
+  <tr>
+    <td>🧪</td>
+    <td>Contributed to medical tech innovations</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Summary
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpatil-tech&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatil-tech&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatil-tech&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatil-tech&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatil-tech&theme=radical" alt="Rahul Patil" /> </p>
+</p>
 
 ---
 
