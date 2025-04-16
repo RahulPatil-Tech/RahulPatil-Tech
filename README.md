@@ -42,7 +42,7 @@
   <a href="https://github.com/rahulpatil-tech">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub" alt="GitHub">
   </a>
-  <a href="https://www.hackerrank.com/profile/rp3252154">
+  <a href="https://www.hackerrank.com/profile/Rahul_Patil_47">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
   <a href="https://leetcode.com/u/py_rex_47/">
