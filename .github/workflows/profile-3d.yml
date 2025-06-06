@@ -1,3 +1,5 @@
+
+
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -11,17 +13,16 @@ jobs:
     name: Generate GitHub Profile 3D Contribution
     steps:
       - uses: actions/checkout@v3
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use Personal Access Token
           USERNAME: ${{ github.repository_owner }}
-
       - name: Commit & Push
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git pull --rebase origin Master
-          git push origin Master
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          git add -A .
+          git commit -m "generated"
+          git push
