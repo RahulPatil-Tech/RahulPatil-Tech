@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi 👋, I'm Rahul Patil</h1> <h3 align="center">AI & Analytics Enthusiast | Innovator | Problem Solver</h3> <p align="center"> 
   
-![3D GitHub Profile](./profile-3d-contrib/profile-night-view.svg)
+![3D GitHub Profile](./profile-3d-contrib/profile-night-green.svg)
 
 
 ---
