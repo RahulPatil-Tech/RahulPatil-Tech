@@ -17,11 +17,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use Personal Access Token
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      run: |
+      git config user.name github-actions
+      git config user.email github-actions@github.com
+      git pull --rebase origin Master
+      git push origin Master
+      env:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+
