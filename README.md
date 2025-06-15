@@ -1,134 +1,158 @@
-<h1 align="center">🚀 Hi 👋, I'm Rahul Patil</h1> <h3 align="center">AI & Analytics Enthusiast | Innovator | Problem Solver</h3> <p align="center"> 
-  
-![3D GitHub Profile](./profile-3d-contrib/profile-night-green.svg)
+<h1 align="center" style="font-size: 42px;">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm 
+  <b style="color: #007ACC;">Rahul Patil</b>
+</h1>
 
+<h3 align="center" style="font-size: 24px;">
+  Software Developer 💻 | AI Enthusiast 🤖 | IoT Innovator 🌐 | Full-Stack Craftsman 🛠️
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Designing+Robust+Software+Solutions+💻;Building+Cloud+Systems+☁️;Automating+Processes+with+AI+and+IoT+🤖;Solving+Real-World+Problems+with+Code+🚀;Let’s+Engineer+the+Future+Together+🤝!" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🌟 About Me
-- 🔬 Passionate about **AI-powered health tech** & **predictive analytics**  
-- 🚀 Building **NUTRIFLEX**, a smart AI-driven nutrition assistant  
-- 💡 Exploring **LSTM, XGBoost, Deep Learning & Cloud Computing**  
-- 🎯 Interested in **AI-driven investment strategies** & **gamified leadership**  
-- 💬 Ask me about **AI, analytics, health tech & MLOps**  
+
+> 🚀 Energetic and curious problem solver with a unique blend of **Biomedical Engineering** and **Computer Science**, passionate about turning ideas into impactful real-world solutions.
+
+- 🧠 Innovating at the **intersection of health, data, and code**.
+- ⚡ Skilled in full-stack web dev, AI/ML, IoT systems & cloud architectures.
+- 📈 Lifelong learner with a mission to **build smart, human-centered products**.
+- 💬 Open to tech talks, collaborative projects, or tackling tough DSA challenges!
 
 ---
 
-## 🚀 Featured Projects
-### 🔹 [Emotion-Detector-Stress-Relief-Suggestions](https://github.com/rahulpatil-tech/Emotion-Detector-Stress-Relief-Suggestions) *(Public Template)*
-🧠 AI-powered emotion detection with personalized well-being recommendations.  
+## 🚀 Current Highlights
 
-### 🔹 [NUTRIFLEX](https://github.com/rahulpatil-tech/NUTRIFLEX) *(Public)*
-🥗 Making personalized nutrition **accessible & engaging** for everyone.  
-
-### 🔹 [CodeClauseInternship_URL_Shorteners](https://github.com/rahulpatil-tech/CodeClauseInternship_URL_Shorteners) *(Public)*
-🔗 Simple yet powerful URL shortener using Python, SQLite & MD5 hashing.  
-
-### 🔹 [To-do-list](https://github.com/rahulpatil-tech/To-do-list) *(Public)*
-📝 Python-based **to-do list** with a clean & intuitive UI for task management.  
-
-📌 **More projects on my GitHub!** 🚀  
+- 🧪 **Data Science Intern @ ResoluteAI Software** — Built customer segmentation models, reduced MSE by **15%**.
+- 🧵 **Community Manager Intern @ NBLINK** — Managed virtual events & boosted social media engagement.
+- 🏥 **IoT-Based Health Monitoring System** — Presented at academic symposiums & featured in research.
+- ✨ **Open Source Contributor** — Contributions to TensorFlow, Scikit-learn, and other major libraries.
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="mailto:rp3252154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rp3252154%40gmail.com-red?style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-patil-4bb533209">
-    <img src="https://img.shields.io/badge/-Rahul%20Patil-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/rahulpatil-tech">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub" alt="GitHub">
-  </a>
-  <a href="https://www.hackerrank.com/profile/Rahul_Patil_47">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://leetcode.com/u/py_rex_47/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
+## 🎓 Education
+
+- 🎓 **PG-DAC (Post Graduate Diploma in Advanced Computing)** — CDAC Kharghar, Navi Mumbai (2025)
+- 🎓 **B.E. in Biomedical Engineering (Honors in Data Science)** — Vidyalankar Institute of Technology, Mumbai (2020–2024) — **CGPA: 8.62**
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="40" alt="Python" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="40" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" height="40" alt="Keras" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="40" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="40" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40" alt="CSS3" />
-</p>
+## 🗂️ Publications
 
+- 📄 **NutriFLEX.AI** — *International Journal of Scientific Research in Engineering and Management (IJSREM)*, October 2024  
+  - An AI-powered nutrition platform with personalized meal planning, mood tracking, and gamified wellness insights.
 
 ---
 
-## 🏆 Competitive Programming
+## 💻 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=py_rex_47&theme=dark" alt="LeetCode Stats" height="200"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,tensorflow,docker,git,mysql,html,css,linux,vscode,opencv" />
 </p>
 
-### 🎖️ LeetCode Achievements
-- 🥈 **Silver Badge:** SQL  
-- 🥉 **Bronze Badge:** Python  
+| 💡 Domain | ⚙️ Tools & Frameworks |
+|-----------|-----------------------|
+| **Languages** | Python, C++, JavaScript, SQL |
+| **Frontend** | React.js, HTML5, CSS3, Bootstrap, Quill.js |
+| **Backend** | Flask, Node.js, Express |
+| **AI/ML** | TensorFlow, Scikit-learn, Streamlit |
+| **Cloud/DevOps** | Docker, GitHub Actions, ThingSpeak |
+| **Concepts & Others** | JWT Auth, DSA, OOP, MVC, REST APIs, Firebase |
 
-### 🎖️ HackerRank Achievements
-- 🥇 **Gold Badge:** Python  
-- 🥈 **Silver Badge:** SQL  
-- 🥉 **Bronze Badge:** Problem Solving  
+---
 
-### 📜 Certifications
-- ✅ **Python (Basic & Intermediate)**  
-- ✅ **SQL (Basic & Intermediate)**  
-- ✅ **Problem Solving (Basic & Intermediate)**  
+## 🛠️ Featured Projects
+
+| Project | Description | Tech |
+|---------|--------------|------|
+| 🥗 [NutriFLEX.AI](https://github.com/rahulpatil-tech/NUTRIFLEX) | AI-based nutrition assistant with mood detection & gamified tracking | Streamlit, OpenAI API, TensorFlow |
+| 📖 [Blog Platform](https://github.com/rahulpatil-tech/BlogPlatform_Flask_MySQL) | Role-based blogging app with JWT auth & WYSIWYG editor | Flask, SQLAlchemy, MySQL |
+| 📟 [IoT Health Monitor](https://github.com/rahulpatil-tech/IoT-Health-Monitor) | Real-time vitals tracking synced to the cloud | Python, ESP32, MAX30102, ThingSpeak |
+| ⚽ [Football Valuation Predictor](https://github.com/rahulpatil-tech/Football-Price-Predictor) | LSTM-based model forecasting club valuations | TensorFlow, Pandas |
+| 🏨 [Hotel Booking UI](https://github.com/rahulpatil-tech/Hotel-Booking-UI) | Modern React interface for hotel listings with filters & responsive design | React, JSX, CSS |
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-<table align="center">
-  <tr>
-    <td>🏆</td>
-    <td><strong>AI Innovation Challenge Finalist</strong></td>
-  </tr>
-  <tr>
-    <td>📜</td>
-    <td><strong>Published Research</strong> on AI in Personalized Healthcare</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><strong>Open Source Contributor</strong> in <code>TensorFlow</code> & <code>Scikit-learn</code></td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td>Built multiple AI/ML projects with real-world impact</td>
-  </tr>
-  <tr>
-    <td>🧪</td>
-    <td>Contributed to medical tech innovations</td>
-  </tr>
-</table>
+- 🥇 **AI Innovation Challenge 2024 Finalist** — NutriFLEX.AI 🧠🥗
+- 📄 **Published Research Paper** — *NutriFLEX.AI*, IJSREM (Oct 2024)
+- 🏆 **Kaggle Medals** — 1× Silver, 11× Bronze  
+  - Competitions: Jane Street RMF (Silver), Decoding the Heart: Advanced ML (Bronze), NBA Prediction & Analysis (Bronze)
+  - **Notebooks Expert** rank: 1,326 of 56,783 (Highest: 1,313)
+- 🛠️ **Open Source Contributor** — TensorFlow, Scikit-learn
+- 🧩 **HackerRank Certifications** — Python (Gold), SQL (Silver), Problem Solving (Bronze)
+- 🏅 **Best IoT Project Presenter** — TechX Symposium 2023
 
 ---
 
-## 📊 GitHub Summary
+## 🧠 DSA & Competitive Programming
+
+| Platform | Badge | Highlights |
+|----------|-------|------------|
+| **LeetCode** | ![LeetCode](https://leetcard.jacoblin.cool/py_rex_47?theme=light&ext=contest) | Python 🥉, SQL 🥈 |
+| **HackerRank** | ![HackerRank](https://img.shields.io/badge/-Python%20%7C%20SQL%20%7C%20Problem%20Solving-2EC866?style=flat-square) | Gold, Silver, Bronze |
+
+---
+
+## 👨‍💼 Leadership & Impact
+
+- 🛠️ **Head of Technical Support**, BMESI-VIT Mumbai  
+  - Led 10+ workshops and hackathons on AI, IoT, and Full-Stack Dev.
+  - Coordinated multi-team event logistics and technical operations.
+- 🎙️ **Speaker & Mentor**  
+  - Presented projects at intercollegiate symposiums.
+  - Mentored 50+ students in ML, IoT, and Full-Stack best practices.
+- ✍️ **Tech Blogger (Coming Soon)**  
+  - Authoring deep-dive tutorials and project stories on GitHub & LinkedIn.
+
+---
+
+## 📈 Activities & Continuous Learning
+
+- 📊 Leading community engagement through tech events and virtual meetups.
+- 🧩 Constantly sharpening DSA and problem-solving skills.
+- 📚 Exploring MLOps, scalable system design, and hardware-software integration.
+
+---
+
+## 🎯 Goals for 2025
+
+- 🚀 Master MLOps pipelines and advanced system design.
+- 🔑 Solve 500+ LeetCode problems.
+- 🤝 Contribute to 10+ impactful open-source projects.
+- 🎤 Speak at a national-level tech conference.
+- ✍️ Publish technical blogs and tutorials to empower fellow devs.
+
+---
+
+## 📬 Let’s Connect & Collaborate!
+
+📍 **Dombivli, Mumbai, India**  
+📞 **+91 8291216667**  
+📧 **rp3252154@gmail.com**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatil-tech&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatil-tech&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatil-tech&theme=radical" alt="Rahul Patil" /> </p>
+  <a href="mailto:rp3252154@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rahul-patil-4bb533209"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rahulpatil-tech"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/Rahul_Patil_47"><img src="https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/py_rex_47/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-## 🌱 Current Interests
-- 🤖 **AI in Healthcare & Personalized Nutrition**  
-- 📊 **Deep Learning & Advanced Analytics**  
-- ☁️ **Cloud Computing & MLOps**  
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
 
-📌 **Always open to collaborations & AI-driven projects!** 🚀  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
 
+<p align="center">
+  ✨ *Let’s innovate, inspire, and impact lives through technology.* 🚀
+</p>
