@@ -69,10 +69,10 @@
 | Project | Description | Tech |
 |---------|--------------|------|
 | 🥗 [NutriFLEX.AI](https://github.com/rahulpatil-tech/NUTRIFLEX) | AI-based nutrition assistant with mood detection & gamified tracking | Streamlit, OpenAI API, TensorFlow |
-| 📖 [Blog Platform](https://github.com/rahulpatil-tech/BlogPlatform_Flask_MySQL) | Role-based blogging app with JWT auth & WYSIWYG editor | Flask, SQLAlchemy, MySQL |
-| 📟 [IoT Health Monitor](https://github.com/rahulpatil-tech/IoT-Health-Monitor) | Real-time vitals tracking synced to the cloud | Python, ESP32, MAX30102, ThingSpeak |
-| ⚽ [Football Valuation Predictor](https://github.com/rahulpatil-tech/Football-Price-Predictor) | LSTM-based model forecasting club valuations | TensorFlow, Pandas |
-| 🏨 [Hotel Booking UI](https://github.com/rahulpatil-tech/Hotel-Booking-UI) | Modern React interface for hotel listings with filters & responsive design | React, JSX, CSS |
+| 📖 [Blog Platform](https://github.com/RahulPatil-Tech/Good_thoughts/tree/Master) | Role-based blogging app with JWT auth & WYSIWYG editor | Flask, SQLAlchemy, MySQL |
+| 📟 [Advance-Patient_Monitoring_System](https://github.com/RahulPatil-Tech/Advance-Patient_Monitoring_System) | Real-time vitals tracking synced to the cloud | Python, ESP32, MAX30102, ThingSpeak |
+| 🧬 [Uterine_Corpus_Predictor](https://github.com/RahulPatil-Tech/Uterine_Corpus) | Random Forest model predicting survival status for Uterine Corpus Endometrial Carcinoma | Scikit-learn, Pandas, Matplotlib, Seaborn |
+| 🏨 [Hotel Booking UI](https://github.com/RahulPatil-Tech/City_Explorer) | Modern React interface for hotel listings with filters & responsive design | React, JSX, CSS |
 
 ---
 
