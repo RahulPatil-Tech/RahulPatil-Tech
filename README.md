@@ -128,6 +128,15 @@
 - ✍️ Publish technical blogs and tutorials to empower fellow devs.
 
 ---
+# 📊 GitHub Stats:
+<div style="display: absolute; justify-content: center; gap: 500px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulPatil-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 44%; min-width: 300px;" />
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RahulPatil-Tech&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 44%; min-width: 300px; height: 44%; min-width: 300px;" />
+</div>
+
+
 
 ## 📬 Let’s Connect & Collaborate!
 
