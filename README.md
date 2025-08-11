@@ -71,6 +71,7 @@
 | 🥗 [NutriFLEX.AI](https://github.com/rahulpatil-tech/NUTRIFLEX) | AI-based nutrition assistant with mood detection & gamified tracking | Streamlit, OpenAI API, TensorFlow |
 | 📖 [Blog Platform](https://github.com/RahulPatil-Tech/Good_thoughts/tree/Master) | Role-based blogging app with JWT auth & WYSIWYG editor | Flask, SQLAlchemy, MySQL |
 | 📟 [Advance-Patient_Monitoring_System](https://github.com/RahulPatil-Tech/Advance-Patient_Monitoring_System) | Real-time vitals tracking synced to the cloud | Python, ESP32, MAX30102, ThingSpeak |
+|  
 | 🧬 [Uterine_Corpus_Predictor](https://github.com/RahulPatil-Tech/Uterine_Corpus) | Random Forest model predicting survival status for Uterine Corpus Endometrial Carcinoma | Scikit-learn, Pandas, Matplotlib, Seaborn |
 | 🏨 [City_Explorer](https://github.com/RahulPatil-Tech/City_Explorer) | Modern React interface for hotel listings with filters & responsive design | React, JSX, CSS |
 
