@@ -73,6 +73,8 @@
 | 📟 [Advance-Patient_Monitoring_System](https://github.com/RahulPatil-Tech/Advance-Patient_Monitoring_System) | Real-time vitals tracking synced to the cloud | Python, ESP32, MAX30102, ThingSpeak |
 | 🧬 [Uterine_Corpus_Predictor](https://github.com/RahulPatil-Tech/Uterine_Corpus) | Random Forest model predicting survival status for Uterine Corpus Endometrial Carcinoma | Scikit-learn, Pandas, Matplotlib, Seaborn |
 | 🏨 [City_Explorer](https://github.com/RahulPatil-Tech/City_Explorer) | Modern React interface for hotel listings with filters & responsive design | React, JSX, CSS |
+| 🌱 [ESP32 Smart Plant Watering System](https://github.com/RahulPatil-Tech/ESP32-Smart-Watering) | Automatic plant watering system with RTC + NTP time sync, TM1637 display, and relay-controlled pump | ESP32, MicroPython, DS3231, TM1637, IoT |
+
 
 ---
 
